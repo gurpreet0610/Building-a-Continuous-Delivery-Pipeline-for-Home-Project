@@ -1,4 +1,7 @@
 # Building-a-Continuous-Delivery-Pipeline-for-Home-Project
+
+Medium Link: https://medium.com/@gurpreets0610/building-a-continuous-delivery-pipeline-for-home-project-using-git-docker-jenkins-51780d4b3a2a 
+
 Building a Continuous Delivery Pipeline for Home Project Using Git, Docker &amp; Jenkins
 
 ❗️TASK-1 ❗️
